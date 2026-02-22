@@ -1,0 +1,5 @@
+{
+  "name": "SumStack 数字消除",
+  "description": "一款数学求和益智游戏，通过组合数字消除方块，防止它们堆积到顶部。",
+  "requestFramePermissions": []
+}
